@@ -20,7 +20,7 @@ const NotFound = () => {
 
 const App = () => {
   return (
-    <Router basename="/first-react-app">
+    <Router >
       <div className="container">
         <h2>React Rotuer Demo</h2>
         <nav>
