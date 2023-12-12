@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "homepage": "https://altcademy.github.io/first-react-app/",
   "private": true,
+  "homepage": "https://twall215.github.io/first-react-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -38,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.0"
   }
 }
